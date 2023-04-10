@@ -1,3 +1,5 @@
+package march.boj_9935;
+
 import java.util.*;
 import java.io.*;
 
